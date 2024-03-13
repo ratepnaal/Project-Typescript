@@ -1,0 +1,20 @@
+
+{
+  
+  "name": "webpage-example",
+  "description": "Webpage Example",
+  "main": "script.js",
+  "scripts": {
+    "start": "tsc script.ts && lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.5.3",
+    "ethers": "^5.5.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.5.4"
+  }
+}

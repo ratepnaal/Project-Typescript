@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "web3": "^4.6.0"
+  },
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "..."
+  },
+  "repository": {
+    "type": "git",
+    "url": "..."
+  },
+  "keywords": [
+    "..."
+  ],
+  "author": "ratep",
+  "license": "MIT"
+}
